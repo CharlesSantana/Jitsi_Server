@@ -1,13 +1,9 @@
 # Jitsi_Server
 ## Olá!, Eu sou Charles Santana!
-<!--Estou informando alguns botoes com dados da Faculdade curso e professor-->
-Eu sou Adm de Redes{ Windows e Linux} Tecnico e Estudante de Tecnologia
-<!--Estou informando alguns botoes midias sociais-->
-![GitHub last commit](https://img.shields.io/badge/Faculdade-Facimp-blue?style=)
-![GitHub last commit](https://img.shields.io/badge/Nucleo-Tecnologia-blue?style=)
-![GitHub last commit](https://img.shields.io/badge/Curso-Admin_de_Redes-red?style=)
+Este é um projeto de instalação de um server para Video Conferencia.
+Estamos implentando.
+Acompanhe o percurso desta Jornada.
 
-<!--
 **CharlesSantana/CharlesSantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
